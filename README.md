@@ -1,14 +1,11 @@
 # project_euler
 
-A Clojure library designed to ... well, that part is up to you.
+A clojure project for the projecteuler.net website
 
 ## Usage
 
-FIXME
+None, you'll have to figure out how to decrypt the tarball first
 
 ## License
 
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright © 2015 Keith Daigle
