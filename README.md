@@ -1,6 +1,8 @@
-# project_euler
+# project-euler-clojure
 
 A clojure project for the projecteuler.net website
+
+## The first rule of project euler: you don't share your code for project euler
 
 ## Usage
 
