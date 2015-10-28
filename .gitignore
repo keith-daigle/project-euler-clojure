@@ -9,3 +9,4 @@ pom.xml.asc
 /.nrepl-port
 .idea/replstate.xml
 .idea/workspace.xml
+src/project_euler/*.clj
